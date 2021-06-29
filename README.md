@@ -6,3 +6,4 @@
 <h5>* L293d motor driver</h5>
 <h5>* Arduino</h5>
 <h5>* Four motors</h5>
+<h5>* Ultrasonic sensor</h5>
